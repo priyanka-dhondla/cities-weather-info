@@ -19,3 +19,4 @@ npm install
 npm start
 
 #### deployment link
+https://cities-weather-info.vercel.app/cities
